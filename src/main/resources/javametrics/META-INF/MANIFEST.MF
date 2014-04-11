@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: co._7bit.dev.java.javametrics.JavaMetrics
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true

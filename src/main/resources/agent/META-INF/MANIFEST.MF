@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: co._7bit.dev.java.agent.InstrumentHook
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
